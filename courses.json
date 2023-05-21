@@ -13,6 +13,20 @@
 "publishedAt": "2023-05-21T16:19:51.812Z",
 "slug": "video-editing"
 }
+},
+{
+"id": 2,
+"attributes": {
+"Name": "YouTube Ads And Marketing Course",
+"Price": 499,
+"image": "https://placehold.co/1920x1080",
+"about": "Introducing our YouTube Ads and Marketing Course, designed to help you maximize your reach, engage your audience, and drive results on the world's largest video-sharing platform.\n\nIn this course, you'll learn the strategies and techniques to effectively utilize YouTube's advertising capabilities to promote your brand, products, or services. We'll guide you through the entire process, from setting up your YouTube channel to optimizing your ads for maximum impact.",
+"learn": "- YouTube advertising fundamentals: Understand the different ad formats available on YouTube, including skippable ads, non-skippable ads, bumper ads, and more. Learn how to choose the right ad format for your goals and budget.\n- \n- Targeting and audience segmentation: Discover how to effectively target your ads to reach the right audience. Learn about demographic targeting, interest targeting, remarketing, and other advanced targeting options to ensure your ads are seen by the people who matter most.\n- \n- Creating compelling ad content: Master the art of creating engaging and impactful ad content that grabs attention and drives action. Learn about storytelling techniques, video production tips, and best practices for crafting ads that resonate with your target audience.\n- \n- Campaign optimization and analytics: Dive into the world of campaign optimization and analytics to continuously improve your YouTube advertising efforts. Learn how to measure key metrics, interpret data, and make data-driven decisions to optimize your ad performance.\n- \n- YouTube channel optimization: Explore strategies to optimize your YouTube channel for maximum visibility and engagement. Learn about channel branding, video SEO, thumbnails, descriptions, and other tactics to attract and retain subscribers.",
+"createdAt": "2023-05-21T16:30:01.309Z",
+"updatedAt": "2023-05-21T16:42:49.700Z",
+"publishedAt": "2023-05-21T16:42:49.697Z",
+"slug": "youtube-ads-and-marketing-course"
+}
 }
 ],
 "meta": {
@@ -20,7 +34,7 @@
 "page": 1,
 "pageSize": 25,
 "pageCount": 1,
-"total": 1
+"total": 2
 }
 }
 }
