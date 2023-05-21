@@ -1,0 +1,26 @@
+{
+"data": [
+{
+"id": 1,
+"attributes": {
+"Name": "Video Editing",
+"Price": 199,
+"image": "https://placehold.co/1920x1080",
+"about": "Introducing our video editing course using Adobe products! Discover the power of Adobe's industry-leading software and unleash your creativity. \n\nIn this course, you'll learn the ins and outs of video editing, from basic techniques to advanced effects, using Adobe Premiere Pro, After Effects, and other Adobe tools. We'll guide you through the entire editing process, covering topics such as timeline management, transitions, color grading, audio editing, and more.\n\nBy mastering Adobe's intuitive interface and powerful features, you'll gain the skills to bring your visions to life. Whether you're a beginner or an experienced editor, this course is designed to enhance your abilities and take your videos to the next level.\n\nEnroll today and unlock the potential of Adobe's video editing tools. Join our community of learners and receive lifetime access to course materials, step-by-step tutorials, practice projects, and expert guidance. \n",
+"learn": "In our video editing course using Adobe products, you will learn:\n\n1. Green screen removing: Master the art of seamlessly removing green screens and replacing them with custom backgrounds or footage. Explore techniques to key out the green screen, refine edges, and create professional-looking composite shots.\n\n2. Color grading: Discover the power of color grading to enhance the mood, atmosphere, and overall visual appeal of your videos. Learn how to adjust color tones, correct white balance, create cinematic looks, and achieve consistency across multiple clips.\n\n3. Timeline management: Gain essential skills in organizing and managing your editing timeline effectively. Learn how to import media files, arrange clips, trim and cut footage, add transitions, and create a smooth flow for your videos.\n\n4. Audio editing: Dive into the world of audio editing and learn how to enhance the sound quality of your videos. Discover techniques for adjusting audio levels, reducing noise, adding background music, and synchronizing audio with video.\n\n5. Effects and transitions: Unleash your creativity by exploring a wide range of effects and transitions available in Adobe Premiere Pro and After Effects. Learn how to add visual effects, motion graphics, text animations, and dynamic transitions to give your videos a professional touch.\n\n6. Exporting and delivery: Understand the different export settings and formats for delivering your videos across various platforms. Learn how to optimize file sizes, adjust resolutions, and ensure your videos maintain their quality when shared online or on different devices.\n\nEnroll in our course today and gain a comprehensive understanding of these key video editing skills using Adobe products. Unleash your creativity and take your videos to new heights!",
+"createdAt": "2023-05-21T16:19:44.702Z",
+"updatedAt": "2023-05-21T16:19:51.816Z",
+"publishedAt": "2023-05-21T16:19:51.812Z",
+"slug": "video-editing"
+}
+}
+],
+"meta": {
+"pagination": {
+"page": 1,
+"pageSize": 25,
+"pageCount": 1,
+"total": 1
+}
+}
+}
